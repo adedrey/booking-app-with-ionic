@@ -1,0 +1,12 @@
+{
+  "appId": "com.udemy.course",
+  "appName": "course",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "android": {
+    "webContentsDebuggingEnabled": true,
+    "allowMixedContent": true
+  },
+  "cordova": {}
+}
